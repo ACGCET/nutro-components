@@ -1,0 +1,15 @@
+
+.App
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  margin-top: 2cm;
+}
+.big-slider
+{
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+
+}
